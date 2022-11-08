@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Sam</h1>
-<h3 align="center">An Experimental Musician and Researcher from Hong Kong 🇭🇰</h3>
+<h3 align="center">An Experimental Musician and Researcher from (undefined)</h3>
 
 - 🔭 I’m currently a doctoral researcher at [The University of Sussex](https://profiles.sussex.ac.uk/p376006-sam-bilbow)
 
