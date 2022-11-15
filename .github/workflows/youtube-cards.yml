@@ -1,0 +1,15 @@
+name: Video Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCCT0erKaf3pnGUb61-3D2TA
+          commit_message: "docs(README.md): update video cards
