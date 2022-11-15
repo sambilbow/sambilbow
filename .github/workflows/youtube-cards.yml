@@ -12,4 +12,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCCT0erKaf3pnGUb61-3D2TA
-          commit_message: "docs(README.md): update video cards
+          commit_message: "docs(README.md): update video cards"
