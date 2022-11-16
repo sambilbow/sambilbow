@@ -29,7 +29,7 @@
 <br>
 <h3 align="center">Presentations</h2>
   
-[![CoMuse](https://ytcards.demolab.com/?id=lkLRmX3Kumw&title=CoMuse&lang=en&timestamp=1657879080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=335 "CoMuse")](https://www.youtube.com/watch?v=lkLRmX3Kumw)
+[![CoMuse](https://ytcards.demolab.com/?id=lkLRmX3Kumw&title=CoMuse&lang=en&timestamp=1657879080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=334 "CoMuse")](https://www.youtube.com/watch?v=lkLRmX3Kumw)
 [![NIME2022](https://ytcards.demolab.com/?id=eCdQku5hFOE&title=NIME2022&lang=en&timestamp=1658311080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=548 "NIME2022")](https://www.youtube.com/watch?v=eCdQku5hFOE)
 [![TEI2021](https://ytcards.demolab.com/?id=zyO43URZZDk&title=TEI2021&lang=en&timestamp=1613296680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=743 "TEI2021")](https://www.youtube.com/watch?v=zyO43URZZDk)
 <br>
