@@ -17,39 +17,35 @@
 <a href="https://www.youtube.com/channel/UCCT0erKaf3pnGUb61-3D2TA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCCT0erKaf3pnGUb61-3D2TA" height="30" width="40" /></a>
 <a href="https://www.sambilbow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="https://www.sambilbow.com" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="center">Environments, Languages, Hardware, and Systems</h2>
 
 <p align="center">
 <img alt="environments" width="" src="https://skillicons.dev/icons?i=unity"/>
-
 <img alt="languages" width="" src="https://skillicons.dev/icons?i=cs,py,swift,html,css"/>
-
 <img alt="hardware" width="" src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-
 <img alt="systems" width="" src="https://skillicons.dev/icons?i=linux,docker,git"/>
 </p>
-
-<h3 align="center">Recent Media</h2>
-
-<p align="center">
+<br>
+<h3 align="center">Presentations</h2>
   
-<!-- BEGIN YOUTUBE-CARDS -->
-[![[2020] area~ explanation](https://ytcards.demolab.com/?id=iZRcBhC13_4&title=%5B2020%5D+area~+explanation&lang=en&timestamp=1668535524&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "[2020] area~ explanation")](https://www.youtube.com/watch?v=iZRcBhC13_4)
-[![[2020] area~ update](https://ytcards.demolab.com/?id=rhtrAERxFQQ&title=%5B2020%5D+area~+update&lang=en&timestamp=1668535433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "[2020] area~ update")](https://www.youtube.com/watch?v=rhtrAERxFQQ)
-[![[2021] Evaluating polaris~ - User Study Scene Demonstration](https://ytcards.demolab.com/?id=lCBgMs8ULj0&title=%5B2021%5D+Evaluating+polaris~+-+User+Study+Scene+Demonstration&lang=en&timestamp=1668520046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "[2021] Evaluating polaris~ - User Study Scene Demonstration")](https://www.youtube.com/watch?v=lCBgMs8ULj0)
-[![CoMuse: Collective Musical Sensehacking](https://ytcards.demolab.com/?id=lkLRmX3Kumw&title=CoMuse%3A+Collective+Musical+Sensehacking&lang=en&timestamp=1657901158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "CoMuse: Collective Musical Sensehacking")](https://www.youtube.com/watch?v=lkLRmX3Kumw)
-[![#NIME22 - Evaluating polaris~ - Sam Bibow (emute Lab @ University of Sussex)](https://ytcards.demolab.com/?id=eCdQku5hFOE&title=%23NIME22+-+Evaluating+polaris~+-+Sam+Bibow+%28emute+Lab+%40+University+of+Sussex%29&lang=en&timestamp=1657105066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "#NIME22 - Evaluating polaris~ - Sam Bibow (emute Lab @ University of Sussex)")](https://www.youtube.com/watch?v=eCdQku5hFOE)
-[![EMUTE06: Tidal Cycles Livecoding Performance - Digital Selves](https://ytcards.demolab.com/?id=yzkhNgrhmbs&title=EMUTE06%3A+Tidal+Cycles+Livecoding+Performance+-+Digital+Selves&lang=en&timestamp=1649621121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "EMUTE06: Tidal Cycles Livecoding Performance - Digital Selves")](https://www.youtube.com/watch?v=yzkhNgrhmbs)
-[![EMUTE06: Supercollider Livecoding & Javascript Performance - J. Chaim Reus & Joana Chicau](https://ytcards.demolab.com/?id=p2IOdgYbv6Y&title=EMUTE06%3A+Supercollider+Livecoding+%26+Javascript+Performance+-+J.+Chaim+Reus+%26+Joana+Chicau&lang=en&timestamp=1649621030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "EMUTE06: Supercollider Livecoding & Javascript Performance - J. Chaim Reus & Joana Chicau")](https://www.youtube.com/watch?v=p2IOdgYbv6Y)
-[![polygons~ AR Performance - Sam Bilbow](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=polygons~+AR+Performance+-+Sam+Bilbow&lang=en&timestamp=1649620859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "polygons~ AR Performance - Sam Bilbow")](https://www.youtube.com/watch?v=9IErsDvhXjM)
-[![EMUTE06: Timelines Livecoding Performance - w1n5t0n (Infinite Monkeys)](https://ytcards.demolab.com/?id=EGRk_sB5d58&title=EMUTE06%3A+Timelines+Livecoding+Performance+-+w1n5t0n+%28Infinite+Monkeys%29&lang=en&timestamp=1649620643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "EMUTE06: Timelines Livecoding Performance - w1n5t0n (Infinite Monkeys)")](https://www.youtube.com/watch?v=EGRk_sB5d58)
-[![polaris~ - Particle Synthesizers - First Person AR](https://ytcards.demolab.com/?id=gY2QtK907cU&title=polaris~+-+Particle+Synthesizers+-+First+Person+AR&lang=en&timestamp=1632860695&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "polaris~ - Particle Synthesizers - First Person AR")](https://www.youtube.com/watch?v=gY2QtK907cU)
-[![polaris~ - Palm Reactive Augmented Reality FM Synth - First Person AR](https://ytcards.demolab.com/?id=miQI4jetETs&title=polaris~+-+Palm+Reactive+Augmented+Reality+FM+Synth+-+First+Person+AR&lang=en&timestamp=1629289021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "polaris~ - Palm Reactive Augmented Reality FM Synth - First Person AR")](https://www.youtube.com/watch?v=miQI4jetETs)
-[![polaris~ - Basic Finger Reactive Augmented Reality Synth - First Person AR](https://ytcards.demolab.com/?id=dJUd0186NbA&title=polaris~+-+Basic+Finger+Reactive+Augmented+Reality+Synth+-+First+Person+AR&lang=en&timestamp=1629124645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "polaris~ - Basic Finger Reactive Augmented Reality Synth - First Person AR")](https://www.youtube.com/watch?v=dJUd0186NbA)
-[![polaris~ LibPd AR Synthesizer - Pure Data in Unity - First Person AR](https://ytcards.demolab.com/?id=CzJlEEcOt-A&title=polaris~+LibPd+AR+Synthesizer+-+Pure+Data+in+Unity+-+First+Person+AR&lang=en&timestamp=1629065165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "polaris~ LibPd AR Synthesizer - Pure Data in Unity - First Person AR")](https://www.youtube.com/watch?v=CzJlEEcOt-A)
-[![Project North Star - C# Granulator Manipulation 2 - First Person AR](https://ytcards.demolab.com/?id=7uwS7U_7U6c&title=Project+North+Star+-+C%23+Granulator+Manipulation+2+-+First+Person+AR&lang=en&timestamp=1626360899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "Project North Star - C# Granulator Manipulation 2 - First Person AR")](https://www.youtube.com/watch?v=7uwS7U_7U6c)
-[![Project North Star - C# Granulator Manipulation - First Person AR](https://ytcards.demolab.com/?id=qqEANHSY1hY&title=Project+North+Star+-+C%23+Granulator+Manipulation+-+First+Person+AR&lang=en&timestamp=1626269044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "Project North Star - C# Granulator Manipulation - First Person AR")](https://www.youtube.com/watch?v=qqEANHSY1hY)
-<!-- END YOUTUBE-CARDS -->
+[![CoMuse](https://ytcards.demolab.com/?id=lkLRmX3Kumw&title=CoMuse&lang=en&timestamp=1657879080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "CoMuse")](https://www.youtube.com/watch?v=lkLRmX3Kumw)
+[![NIME2022](https://ytcards.demolab.com/?id=eCdQku5hFOE&title=NIME2022&lang=en&timestamp=1658311080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "NIME2022")](https://www.youtube.com/watch?v=eCdQku5hFOE)
+[![TEI2021](https://ytcards.demolab.com/?id=zyO43URZZDk&title=TEI2021&lang=en&timestamp=1613296680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "TEI2021")](https://www.youtube.com/watch?v=zyO43URZZDk)
+<br>
+<h3 align="center">Interactive Music Systems</h2>
 
-  </p>
+[![polygons~](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=polygons~&lang=en&timestamp=1645264680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "polygons~")](https://www.youtube.com/watch?v=9IErsDvhXjM)
+[![polaris~](https://ytcards.demolab.com/?id=lCBgMs8ULj0&title=polaris~&lang=en&timestamp=1634896680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "polaris~")](https://www.youtube.com/watch?v=lCBgMs8ULj0)
+[![area~](https://ytcards.demolab.com/?id=SPd-f2EXuIQ&title=area~&lang=en&timestamp=1594979880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "area~")](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
+[![nodenecklace~](https://ytcards.demolab.com/?id=bJlT2-Fhyzc&title=nodenecklace~&lang=en&timestamp=1563530280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "nodenecklace~")](https://www.youtube.com/watch?v=bJlT2-Fhyzc)
+
+<!-- 
+1657879080 CoMuse https://www.youtube.com/watch?v=lkLRmX3Kumw
+1658311080 NIME2022 https://www.youtube.com/watch?v=eCdQku5hFOE
+1613296680 TEI2021 https://www.youtube.com/watch?v=zyO43URZZDk
+1645264680 polygons~ https://www.youtube.com/watch?v=9IErsDvhXjM
+1634896680 polaris~ https://www.youtube.com/watch?v=lCBgMs8ULj0
+1594979880 area~ https://www.youtube.com/watch?v=SPd-f2EXuIQ
+1563530280 nodenecklace~ https://www.youtube.com/watch?v=bJlT2-Fhyzc
+-->
