@@ -29,16 +29,16 @@
 <br>
 <h3 align="center">Presentations</h2>
   
-[![CoMuse](https://ytcards.demolab.com/?id=lkLRmX3Kumw&title=CoMuse&lang=en&timestamp=1657879080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "CoMuse")](https://www.youtube.com/watch?v=lkLRmX3Kumw)
-[![NIME2022](https://ytcards.demolab.com/?id=eCdQku5hFOE&title=NIME2022&lang=en&timestamp=1658311080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "NIME2022")](https://www.youtube.com/watch?v=eCdQku5hFOE)
-[![TEI2021](https://ytcards.demolab.com/?id=zyO43URZZDk&title=TEI2021&lang=en&timestamp=1613296680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270 "TEI2021")](https://www.youtube.com/watch?v=zyO43URZZDk)
+[![CoMuse](https://ytcards.demolab.com/?id=lkLRmX3Kumw&title=CoMuse&lang=en&timestamp=1657879080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=335 "CoMuse")](https://www.youtube.com/watch?v=lkLRmX3Kumw)
+[![NIME2022](https://ytcards.demolab.com/?id=eCdQku5hFOE&title=NIME2022&lang=en&timestamp=1658311080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=548 "NIME2022")](https://www.youtube.com/watch?v=eCdQku5hFOE)
+[![TEI2021](https://ytcards.demolab.com/?id=zyO43URZZDk&title=TEI2021&lang=en&timestamp=1613296680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=270&duration=743 "TEI2021")](https://www.youtube.com/watch?v=zyO43URZZDk)
 <br>
 <h3 align="center">Interactive Music Systems</h2>
 
-[![polygons~](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=polygons~&lang=en&timestamp=1645264680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "polygons~")](https://www.youtube.com/watch?v=9IErsDvhXjM)
-[![polaris~](https://ytcards.demolab.com/?id=lCBgMs8ULj0&title=polaris~&lang=en&timestamp=1634896680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "polaris~")](https://www.youtube.com/watch?v=lCBgMs8ULj0)
-[![area~](https://ytcards.demolab.com/?id=SPd-f2EXuIQ&title=area~&lang=en&timestamp=1594979880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "area~")](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
-[![nodenecklace~](https://ytcards.demolab.com/?id=bJlT2-Fhyzc&title=nodenecklace~&lang=en&timestamp=1563530280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200 "nodenecklace~")](https://www.youtube.com/watch?v=bJlT2-Fhyzc)
+[![polygons~](https://ytcards.demolab.com/?id=9IErsDvhXjM&title=polygons~&lang=en&timestamp=1645264680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200&duration=1049 "polygons~")](https://www.youtube.com/watch?v=9IErsDvhXjM)
+[![polaris~](https://ytcards.demolab.com/?id=lCBgMs8ULj0&title=polaris~&lang=en&timestamp=1634896680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200&duration=528 "polaris~")](https://www.youtube.com/watch?v=lCBgMs8ULj0)
+[![area~](https://ytcards.demolab.com/?id=SPd-f2EXuIQ&title=area~&lang=en&timestamp=1594979880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200&duration=157 "area~")](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
+[![nodenecklace~](https://ytcards.demolab.com/?id=bJlT2-Fhyzc&title=nodenecklace~&lang=en&timestamp=1563530280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=200&duration=4877 "nodenecklace~")](https://www.youtube.com/watch?v=bJlT2-Fhyzc)
 
 <!-- 
 1657879080 CoMuse https://www.youtube.com/watch?v=lkLRmX3Kumw
