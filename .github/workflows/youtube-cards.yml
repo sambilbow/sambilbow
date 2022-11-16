@@ -14,4 +14,4 @@ jobs:
           channel_id: UCCT0erKaf3pnGUb61-3D2TA
           commit_message: "docs(README.md): update video cards"
           card_width: 270
-          max_videos: 9
+          max_videos: 40
