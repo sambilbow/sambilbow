@@ -1,8 +1,8 @@
 name: Video Cards
 on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+  # schedule:
+  #   # Runs every hour, on the hour
+  #   - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
