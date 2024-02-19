@@ -2,10 +2,8 @@
 <h3 align="center">An Experimental Musician and Researcher from (undefined)</h3>
 
 
-- 🎓 I’m currently a postdoctoral researcher at [The University of Sussex](https://profiles.sussex.ac.uk/p376006-sam-bilbow)
-- 📐 I’m currently interested in learning **C++ and 3D Geometry**
+- 📐 I graduate in 2024 with a PhD in Music Technologies
 - 💬 Ask me about **Augmented Reality, Music Technology**
-- 📫 How to reach me **s.bilbow@sussex.ac.uk**
 - 🌱 Fun fact **I like eating plants!**
 
 
