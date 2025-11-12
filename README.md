@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋🏻, I'm Sam</h1>
-<h3 align="center">An Experimental Musician and Researcher from (undefined)</h3>
+<h3 align="center">A CloudOps Engineer based in the UK</h3>
 
-
-- 📐 I graduate in 2024 with a PhD in Music Technologies
+- 🐧 I'm currently working on **Linux** and **Google Cloud Platform**
+- 🌱 I'm currently learning **Ansible** and **Terraform**
+- 📐 I hold a PhD in **Music Technologies** from the University of Sussex
+- 📜 Feel free to compile my [doctoral-thesis](https://github.com/sambilbow/doctoral-thesis)
 - 💬 Ask me about **Augmented Reality, Music Technology**
-- 🌱 Fun fact **I like eating plants!**
+- ⚡ Fun fact **I like eating plants!**
 
 
 <h3 align="center">More Information</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sambilbow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sambilbow/" height="30" width="40" /></a>
-<a href="https://twitter.com/sambilbow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sambilbow" height="30" width="40" /></a>
+<a href="https://assemblag.es/@sam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg" alt="https://assemblag.es/@sam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCCT0erKaf3pnGUb61-3D2TA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCCT0erKaf3pnGUb61-3D2TA" height="30" width="40" /></a>
 <a href="https://www.sambilbow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="https://www.sambilbow.com" height="30" width="40" /></a>
 </p>
@@ -19,9 +21,9 @@
 <h3 align="center">Environments, Languages, Hardware, and Systems</h2>
 
 <p align="center">
-<img alt="environments" width="" src="https://skillicons.dev/icons?i=unity"/>
+<!-- <img alt="environments" width="" src="https://skillicons.dev/icons?i=unity"/>
 <img alt="languages" width="" src="https://skillicons.dev/icons?i=cs,py,swift,html,css"/>
-<img alt="hardware" width="" src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<img alt="hardware" width="" src="https://skillicons.dev/icons?i=arduino,raspberrypi"/> -->
 <img alt="systems" width="" src="https://skillicons.dev/icons?i=linux,docker,git"/>
 </p>
 <br>
