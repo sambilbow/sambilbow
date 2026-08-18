@@ -2,7 +2,7 @@
 <h3 align="center">A CloudOps Engineer based in the UK</h3>
 
 - 🐧 I'm currently working on **Linux** and **Google Cloud Platform**
-- 🌱 I'm currently learning **Ansible** and **Terraform**
+- 🌱 I'm currently using **Ansible** and **Terraform**
 - 📐 I hold a PhD in **Music Technologies** from the University of Sussex
 - 📜 Feel free to compile my [doctoral-thesis](https://github.com/sambilbow/doctoral-thesis)
 - 💬 Ask me about **Augmented Reality, Music Technology**
@@ -21,10 +21,7 @@
 <h3 align="center">Environments, Languages, Hardware, and Systems</h2>
 
 <p align="center">
-<!-- <img alt="environments" width="" src="https://skillicons.dev/icons?i=unity"/>
-<img alt="languages" width="" src="https://skillicons.dev/icons?i=cs,py,swift,html,css"/>
-<img alt="hardware" width="" src="https://skillicons.dev/icons?i=arduino,raspberrypi"/> -->
-<img alt="systems" width="" src="https://skillicons.dev/icons?i=linux,docker,git"/>
+<img alt="systems" width="" src="https://skillicons.dev/icons?i=linux,docker,gcp,ansible,terraform"/>
 </p>
 <br>
 <h3 align="center">Presentations</h2>
