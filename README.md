@@ -12,10 +12,10 @@
 <h3 align="center">More Information</h2>
 
 <p align="center">
+<a href="https://www.sambilbow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="https://sam.bilbow.uk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sambilbow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sambilbow/" height="30" width="40" /></a>
-<a href="https://assemblag.es/@sam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg" alt="https://assemblag.es/@sam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCCT0erKaf3pnGUb61-3D2TA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCCT0erKaf3pnGUb61-3D2TA" height="30" width="40" /></a>
-<a href="https://www.sambilbow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="https://www.sambilbow.com" height="30" width="40" /></a>
+
 </p>
 <br>
 <h3 align="center">Environments, Languages, Hardware, and Systems</h2>
